@@ -1,6 +1,6 @@
 # SecureConnectionString
 
-*This is a nuget package for secure your connection strings in .Net Core project.* 
+*This is a nuget package for secure your connection strings for .Net Core project.* 
 
 https://www.nuget.org/packages/SecureConnectionString/1.1.0
 
